@@ -1,3 +1,4 @@
+
 module UsersHelper
 
   # 渡されたユーザーのGravatar画像を返す
